@@ -2,6 +2,14 @@
 
 Olá, sou entusiasta da tecnologia. Iniciei como Técnico em Informática e me graduei em Análise e Desenvolvimento de Sistemas. Pós-graduado em MBA em Projetos de Aplicações Digitais e Gestão e Governança de TI. Atuo como Desenvolvedor Java, contribuindo para sistemas essenciais, alinhando estratégias aos objetivos organizacionais. Com abordagem proativa, liderança em projetos e compromisso.
 
+<div align="center">
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=matheusprata&theme=midnight-purple">
+<img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprata&layout=compact&theme=midnight-purple">
+</div>
+<!-- ![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=matheusprata&theme=midnight-purple) -->
+<!-- ![Linguagens_mais_usadas_GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprata&theme=midnight-purple) -->
+
+
 Experiência nas Tecnologias: </br>
  💠Desenvolvimento de APIs REST usando Java e Spring Framework, arquitetura MVC Hexagonal; </br>
  💠Persistência em Bancos de Dados Relacionais (PostgreSQL, MySQL); </br>
